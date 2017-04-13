@@ -1,0 +1,31 @@
+html, body {
+	margin: 0; 
+	padding: 0;
+	height: 100%;
+}
+.container {
+	height: 100%;
+	background: #eee;
+	
+}
+#canvas {
+	display: block;
+	margin: 0 auto;
+	background: #eee;
+}
+#message, #checkbox{
+	text-align:center;
+	font-family: "Microsoft Yahei";
+	font-size: 16px;
+	color: #555;
+	padding: 0;
+	margin: 0;
+	background:#eee;
+}
+#checkbox {
+	padding-top: 40px;
+}
+#checkbox label {
+	display: block;
+	padding-top: 20px;
+	}
